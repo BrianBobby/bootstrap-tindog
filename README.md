@@ -6,7 +6,7 @@ This project was created as a part of my web development portfolio to showcase m
 
 ## Live Preview
 
-Check out the live preview of the website here. 
+Check out the live preview of the website here. https://brianbobby.github.io/bootstrap-tindog/
 
 ## Technologies Used
 

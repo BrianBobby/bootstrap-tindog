@@ -11,7 +11,7 @@ Check out the live preview of the website here.
 ## Technologies Used
 
 - `HTML5 & CSS3`: To structure and style the web pages.
--`Bootstrap`: For a responsive and visually appealing design.
+- `Bootstrap`: For a responsive and visually appealing design.
 
 ## Files Included
 
